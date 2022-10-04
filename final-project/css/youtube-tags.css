@@ -1,0 +1,22 @@
+p {
+    font-family: Roboto, Arial, sans-serif;
+}
+body {
+    margin: 0px;
+    line-height: 1.5;
+}
+main {
+    padding-left: 72px;
+    padding-top: 57px;
+    background-color: rgb(249, 249, 249);
+    color: rgb(33,37,41);
+}
+a {
+    height: auto;
+    width: auto;
+    text-decoration: none;
+    color: black;
+}
+img, svg {
+    cursor: pointer;
+}
